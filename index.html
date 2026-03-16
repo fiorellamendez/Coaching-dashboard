@@ -172,10 +172,11 @@ function init() {
 
   // Populate week filter
   const weekSel = document.getElementById('week-filter');
-  weekSel.innerHTML = '<option value="latest">Latest (' + HISTORY_DATA[HISTORY_DATA.length-1].week + ')</option>';
+  weekSel.innerHTML = '<option value="latest">Latest week</option>';
   HISTORY_DATA.slice().reverse().forEach(h => {
     const opt = document.createElement('option');
-    opt.value = h.week; opt.textContent = (h.baseline ? '📌 Baseline: ' : 'Week of ') + h.week;
+    opt.value = h.week;
+    opt.textContent = (h.baseline ? '📌 Baseline — ' : 'Week of ') + h.week;
     weekSel.appendChild(opt);
   });
 
