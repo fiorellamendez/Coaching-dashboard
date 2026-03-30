@@ -184,9 +184,10 @@ function init() {
   const latest = HISTORY_DATA[HISTORY_DATA.length - 1];
   const detailSel = document.getElementById('coach-detail-select');
   detailSel.innerHTML = '<option value="">-- Select coach --</option>';
-  latest.coaches.forEach(c => {
+  const allCoachNames = [...new Set(HISTORY_DATA.flatMap(h => h.coaches.map(c => c.coach)))].sort();
+  allCoachNames.forEach(name => {
     const opt = document.createElement('option');
-    opt.value = c.coach; opt.textContent = c.coach;
+    opt.value = name; opt.textContent = name;
     detailSel.appendChild(opt);
   });
 
