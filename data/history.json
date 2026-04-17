@@ -1,972 +1,1153 @@
-[
-  {
-    "week": "2026-02-28",
-    "baseline": true,
-    "total": 339,
-    "analyzed": 339,
-    "pass": 219,
-    "fail": 120,
-    "passPct": 64.6,
+{
+  "weeks": [
+    {
+      "week": "2026-02-28",
+      "baseline": true,
+      "total": 339,
+      "analyzed": 339,
+      "pass": 219,
+      "fail": 120,
+      "passPct": 64.6,
+      "coaches": [
+        {
+          "coach": "Adam Roush",
+          "total": 18,
+          "analyzed": 18,
+          "pass": 10,
+          "fail": 8,
+          "passPct": 56,
+          "baseline": true
+        },
+        {
+          "coach": "Aleksandra Wrega",
+          "total": 18,
+          "analyzed": 18,
+          "pass": 10,
+          "fail": 8,
+          "passPct": 56,
+          "baseline": true
+        },
+        {
+          "coach": "Alixandria Ali",
+          "total": 9,
+          "analyzed": 9,
+          "pass": 0,
+          "fail": 9,
+          "passPct": 0,
+          "baseline": true
+        },
+        {
+          "coach": "Barbara Franks",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 1,
+          "fail": 1,
+          "passPct": 50,
+          "baseline": true
+        },
+        {
+          "coach": "Benjamin Piper",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 8,
+          "fail": 7,
+          "passPct": 53,
+          "baseline": true
+        },
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 12,
+          "fail": 2,
+          "passPct": 86,
+          "baseline": true
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 11,
+          "fail": 4,
+          "passPct": 73,
+          "baseline": true
+        },
+        {
+          "coach": "Crissy Pratt",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 0,
+          "fail": 1,
+          "passPct": 0,
+          "baseline": true
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 13,
+          "analyzed": 13,
+          "pass": 11,
+          "fail": 2,
+          "passPct": 85,
+          "baseline": true
+        },
+        {
+          "coach": "Davi Deconti",
+          "total": 21,
+          "analyzed": 21,
+          "pass": 9,
+          "fail": 12,
+          "passPct": 43,
+          "baseline": true
+        },
+        {
+          "coach": "David Babagbale",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 3,
+          "fail": 3,
+          "passPct": 50,
+          "baseline": true
+        },
+        {
+          "coach": "Eric Nelson",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 13,
+          "fail": 1,
+          "passPct": 93,
+          "baseline": true
+        },
+        {
+          "coach": "Fiorella Mendez",
+          "total": 13,
+          "analyzed": 13,
+          "pass": 12,
+          "fail": 1,
+          "passPct": 92,
+          "baseline": true
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 16,
+          "analyzed": 16,
+          "pass": 8,
+          "fail": 8,
+          "passPct": 50,
+          "baseline": true
+        },
+        {
+          "coach": "Janna Peskett",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 2,
+          "fail": 5,
+          "passPct": 29,
+          "baseline": true
+        },
+        {
+          "coach": "Joshua Albar",
+          "total": 16,
+          "analyzed": 16,
+          "pass": 15,
+          "fail": 1,
+          "passPct": 94,
+          "baseline": true
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 12,
+          "fail": 2,
+          "passPct": 86,
+          "baseline": true
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 16,
+          "analyzed": 16,
+          "pass": 11,
+          "fail": 5,
+          "passPct": 69,
+          "baseline": true
+        },
+        {
+          "coach": "Noel Pilkington",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 12,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": true
+        },
+        {
+          "coach": "Pritish Chakravarty",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": true
+        },
+        {
+          "coach": "Ruchi Baid",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": true
+        },
+        {
+          "coach": "Sebastian Sarmiento",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 9,
+          "fail": 5,
+          "passPct": 64,
+          "baseline": true
+        },
+        {
+          "coach": "Soaham Sharma",
+          "total": 17,
+          "analyzed": 17,
+          "pass": 12,
+          "fail": 5,
+          "passPct": 71,
+          "baseline": true
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 16,
+          "analyzed": 16,
+          "pass": 9,
+          "fail": 7,
+          "passPct": 56,
+          "baseline": true
+        },
+        {
+          "coach": "Taylor Schwartz",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 5,
+          "fail": 10,
+          "passPct": 33,
+          "baseline": true
+        },
+        {
+          "coach": "Tripti Khetan",
+          "total": 8,
+          "analyzed": 8,
+          "pass": 6,
+          "fail": 2,
+          "passPct": 75,
+          "baseline": true
+        },
+        {
+          "coach": "Vidhi Vashishth",
+          "total": 16,
+          "analyzed": 16,
+          "pass": 9,
+          "fail": 7,
+          "passPct": 56,
+          "baseline": true
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 9,
+          "analyzed": 9,
+          "pass": 5,
+          "fail": 4,
+          "passPct": 56,
+          "baseline": true
+        }
+      ],
+      "daily": []
+    },
+    {
+      "week": "2026-03-16",
+      "baseline": false,
+      "total": 212,
+      "analyzed": 212,
+      "pass": 141,
+      "fail": 71,
+      "passPct": 66.5,
+      "coaches": [
+        {
+          "coach": "Adam Roush",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 4,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Eric Nelson",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Janna Peskett",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 14,
+          "fail": 1,
+          "passPct": 93,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 13,
+          "fail": 2,
+          "passPct": 87,
+          "baseline": false
+        },
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 6,
+          "fail": 1,
+          "passPct": 86,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 26,
+          "analyzed": 26,
+          "pass": 20,
+          "fail": 6,
+          "passPct": 77,
+          "baseline": false
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 3,
+          "fail": 1,
+          "passPct": 75,
+          "baseline": false
+        },
+        {
+          "coach": "Vidhi Vashishth",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 10,
+          "fail": 5,
+          "passPct": 67,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 23,
+          "analyzed": 23,
+          "pass": 15,
+          "fail": 8,
+          "passPct": 65,
+          "baseline": false
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 11,
+          "analyzed": 11,
+          "pass": 7,
+          "fail": 4,
+          "passPct": 64,
+          "baseline": false
+        },
+        {
+          "coach": "Davi Deconti",
+          "total": 36,
+          "analyzed": 36,
+          "pass": 22,
+          "fail": 14,
+          "passPct": 61,
+          "baseline": false
+        },
+        {
+          "coach": "Soaham Sharma",
+          "total": 20,
+          "analyzed": 20,
+          "pass": 12,
+          "fail": 8,
+          "passPct": 60,
+          "baseline": false
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 1,
+          "fail": 1,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Joshua Albar",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 1,
+          "fail": 1,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 6,
+          "fail": 6,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Aleksandra Wrega",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 2,
+          "fail": 3,
+          "passPct": 40,
+          "baseline": false
+        },
+        {
+          "coach": "Benjamin Piper",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 1,
+          "fail": 4,
+          "passPct": 20,
+          "baseline": false
+        },
+        {
+          "coach": "Alixandria Ali",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 0,
+          "fail": 5,
+          "passPct": 0,
+          "baseline": false
+        },
+        {
+          "coach": "David Babagbale",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 0,
+          "fail": 1,
+          "passPct": 0,
+          "baseline": false
+        }
+      ],
+      "daily": []
+    },
+    {
+      "week": "2026-03-23",
+      "baseline": false,
+      "total": 91,
+      "analyzed": 91,
+      "pass": 65,
+      "fail": 26,
+      "passPct": 71.4,
+      "coaches": [
+        {
+          "coach": "Bill Brooks",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Davi Deconti",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "David Babagbale",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 4,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Fiorella Mendez",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Janna Peskett",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Diane Clement",
+          "total": 16,
+          "analyzed": 16,
+          "pass": 15,
+          "fail": 1,
+          "passPct": 94,
+          "baseline": false
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 5,
+          "fail": 1,
+          "passPct": 83,
+          "baseline": false
+        },
+        {
+          "coach": "Soaham Sharma",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 5,
+          "fail": 2,
+          "passPct": 71,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 4,
+          "fail": 2,
+          "passPct": 67,
+          "baseline": false
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 3,
+          "fail": 2,
+          "passPct": 60,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 4,
+          "fail": 3,
+          "passPct": 57,
+          "baseline": false
+        },
+        {
+          "coach": "Alixandria Ali",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 2,
+          "fail": 2,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Eric Nelson",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 2,
+          "fail": 2,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 7,
+          "fail": 7,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Vidhi Vashishth",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 3,
+          "fail": 3,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 0,
+          "fail": 1,
+          "passPct": 0,
+          "baseline": false
+        }
+      ],
+      "daily": []
+    },
+    {
+      "week": "2026-03-30",
+      "baseline": false,
+      "total": 114,
+      "analyzed": 114,
+      "pass": 84,
+      "fail": 30,
+      "passPct": 73.7,
+      "coaches": [
+        {
+          "coach": "Bill Brooks",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Soaham Sharma",
+          "total": 9,
+          "analyzed": 9,
+          "pass": 8,
+          "fail": 1,
+          "passPct": 89,
+          "baseline": false
+        },
+        {
+          "coach": "Vidhi Vashishth",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 10,
+          "fail": 2,
+          "passPct": 83,
+          "baseline": false
+        },
+        {
+          "coach": "Diane Clement",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 11,
+          "fail": 3,
+          "passPct": 79,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 17,
+          "analyzed": 17,
+          "pass": 13,
+          "fail": 4,
+          "passPct": 76,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 11,
+          "analyzed": 11,
+          "pass": 8,
+          "fail": 3,
+          "passPct": 73,
+          "baseline": false
+        },
+        {
+          "coach": "Benjamin Piper",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 10,
+          "fail": 4,
+          "passPct": 71,
+          "baseline": false
+        },
+        {
+          "coach": "Davi Deconti",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 5,
+          "fail": 2,
+          "passPct": 71,
+          "baseline": false
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 2,
+          "fail": 1,
+          "passPct": 67,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 10,
+          "analyzed": 10,
+          "pass": 6,
+          "fail": 4,
+          "passPct": 60,
+          "baseline": false
+        },
+        {
+          "coach": "Adam Roush",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 1,
+          "fail": 1,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Aleksandra Wrega",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 1,
+          "fail": 1,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 2,
+          "fail": 3,
+          "passPct": 40,
+          "baseline": false
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 0,
+          "fail": 1,
+          "passPct": 0,
+          "baseline": false
+        }
+      ],
+      "daily": []
+    },
+    {
+      "week": "2026-04-10",
+      "baseline": false,
+      "total": 243,
+      "analyzed": 243,
+      "pass": 193,
+      "fail": 50,
+      "passPct": 79.4,
+      "coaches": [
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 11,
+          "analyzed": 11,
+          "pass": 11,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Caleb Jabali",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 6,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "David Babagbale",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 21,
+          "analyzed": 21,
+          "pass": 21,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Diane Clement",
+          "total": 19,
+          "analyzed": 19,
+          "pass": 18,
+          "fail": 1,
+          "passPct": 95,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 18,
+          "analyzed": 18,
+          "pass": 17,
+          "fail": 1,
+          "passPct": 94,
+          "baseline": false
+        },
+        {
+          "coach": "Soaham Sharma",
+          "total": 19,
+          "analyzed": 19,
+          "pass": 16,
+          "fail": 3,
+          "passPct": 84,
+          "baseline": false
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 10,
+          "fail": 2,
+          "passPct": 83,
+          "baseline": false
+        },
+        {
+          "coach": "Joshua Albar",
+          "total": 10,
+          "analyzed": 10,
+          "pass": 8,
+          "fail": 2,
+          "passPct": 80,
+          "baseline": false
+        },
+        {
+          "coach": "Kesser Karim",
+          "total": 26,
+          "analyzed": 26,
+          "pass": 19,
+          "fail": 7,
+          "passPct": 73,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 26,
+          "analyzed": 26,
+          "pass": 19,
+          "fail": 7,
+          "passPct": 73,
+          "baseline": false
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 18,
+          "analyzed": 18,
+          "pass": 12,
+          "fail": 6,
+          "passPct": 67,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 28,
+          "analyzed": 28,
+          "pass": 18,
+          "fail": 10,
+          "passPct": 64,
+          "baseline": false
+        },
+        {
+          "coach": "Aleksandra Wrega",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 2,
+          "fail": 2,
+          "passPct": 50,
+          "baseline": false
+        },
+        {
+          "coach": "Davi Deconti",
+          "total": 13,
+          "analyzed": 13,
+          "pass": 5,
+          "fail": 8,
+          "passPct": 38,
+          "baseline": false
+        },
+        {
+          "coach": "Alixandria Ali",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 0,
+          "fail": 1,
+          "passPct": 0,
+          "baseline": false
+        }
+      ],
+      "daily": []
+    },
+    {
+      "week": "2026-04-17",
+      "baseline": false,
+      "total": 124,
+      "analyzed": 124,
+      "pass": 112,
+      "fail": 12,
+      "passPct": 90.3,
+      "coaches": [
+        {
+          "coach": "Adam Roush",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Davi Deconti",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Diane Clement",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 7,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Fiorella Mendez",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 6,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Joshua Albar",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 7,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 6,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Soaham Sharma",
+          "total": 8,
+          "analyzed": 8,
+          "pass": 8,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 13,
+          "fail": 1,
+          "passPct": 93,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 11,
+          "fail": 1,
+          "passPct": 92,
+          "baseline": false
+        },
+        {
+          "coach": "Benjamin Piper",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 10,
+          "fail": 2,
+          "passPct": 83,
+          "baseline": false
+        },
+        {
+          "coach": "Kesser Karim",
+          "total": 15,
+          "analyzed": 15,
+          "pass": 12,
+          "fail": 3,
+          "passPct": 80,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 14,
+          "analyzed": 14,
+          "pass": 11,
+          "fail": 3,
+          "passPct": 79,
+          "baseline": false
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 9,
+          "analyzed": 9,
+          "pass": 7,
+          "fail": 2,
+          "passPct": 78,
+          "baseline": false
+        }
+      ],
+      "daily": []
+    }
+  ],
+  "cumulative": {
+    "analyzed": 1087,
+    "pass": 820,
+    "fail": 264,
+    "passPct": 75.4,
     "coaches": [
-      {
-        "coach": "Adam Roush",
-        "total": 18,
-        "analyzed": 18,
-        "pass": 10,
-        "fail": 8,
-        "passPct": 56,
-        "baseline": true
-      },
-      {
-        "coach": "Aleksandra Wrega",
-        "total": 18,
-        "analyzed": 18,
-        "pass": 10,
-        "fail": 8,
-        "passPct": 56,
-        "baseline": true
-      },
-      {
-        "coach": "Alixandria Ali",
-        "total": 9,
-        "analyzed": 9,
-        "pass": 0,
-        "fail": 9,
-        "passPct": 0,
-        "baseline": true
-      },
-      {
-        "coach": "Barbara Franks",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": true
-      },
-      {
-        "coach": "Benjamin Piper",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 8,
-        "fail": 7,
-        "passPct": 53,
-        "baseline": true
-      },
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 12,
-        "fail": 2,
-        "passPct": 86,
-        "baseline": true
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 11,
-        "fail": 4,
-        "passPct": 73,
-        "baseline": true
-      },
-      {
-        "coach": "Crissy Pratt",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": true
-      },
-      {
-        "coach": "Daniela Guarin",
-        "total": 13,
-        "analyzed": 13,
-        "pass": 11,
-        "fail": 2,
-        "passPct": 85,
-        "baseline": true
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 21,
-        "analyzed": 21,
-        "pass": 9,
-        "fail": 12,
-        "passPct": 43,
-        "baseline": true
-      },
-      {
-        "coach": "David Babagbale",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 3,
-        "fail": 3,
-        "passPct": 50,
-        "baseline": true
-      },
-      {
-        "coach": "Eric Nelson",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 13,
-        "fail": 1,
-        "passPct": 93,
-        "baseline": true
-      },
-      {
-        "coach": "Fiorella Mendez",
-        "total": 13,
-        "analyzed": 13,
-        "pass": 12,
-        "fail": 1,
-        "passPct": 92,
-        "baseline": true
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 16,
-        "analyzed": 16,
-        "pass": 8,
-        "fail": 8,
-        "passPct": 50,
-        "baseline": true
-      },
-      {
-        "coach": "Janna Peskett",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 2,
-        "fail": 5,
-        "passPct": 29,
-        "baseline": true
-      },
-      {
-        "coach": "Joshua Albar",
-        "total": 16,
-        "analyzed": 16,
-        "pass": 15,
-        "fail": 1,
-        "passPct": 94,
-        "baseline": true
-      },
-      {
-        "coach": "Kathryn Macfarlane",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 12,
-        "fail": 2,
-        "passPct": 86,
-        "baseline": true
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 16,
-        "analyzed": 16,
-        "pass": 11,
-        "fail": 5,
-        "passPct": 69,
-        "baseline": true
-      },
-      {
-        "coach": "Noel Pilkington",
-        "total": 12,
-        "analyzed": 12,
-        "pass": 12,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": true
-      },
-      {
-        "coach": "Pritish Chakravarty",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": true
-      },
-      {
-        "coach": "Ruchi Baid",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 3,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": true
-      },
-      {
-        "coach": "Sebastian Sarmiento",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 9,
-        "fail": 5,
-        "passPct": 64,
-        "baseline": true
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 17,
-        "analyzed": 17,
-        "pass": 12,
-        "fail": 5,
-        "passPct": 71,
-        "baseline": true
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 16,
-        "analyzed": 16,
-        "pass": 9,
-        "fail": 7,
-        "passPct": 56,
-        "baseline": true
-      },
-      {
-        "coach": "Taylor Schwartz",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 5,
-        "fail": 10,
-        "passPct": 33,
-        "baseline": true
-      },
-      {
-        "coach": "Tripti Khetan",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 6,
-        "fail": 2,
-        "passPct": 75,
-        "baseline": true
-      },
-      {
-        "coach": "Vidhi Vashishth",
-        "total": 16,
-        "analyzed": 16,
-        "pass": 9,
-        "fail": 7,
-        "passPct": 56,
-        "baseline": true
-      },
-      {
-        "coach": "Vijaykumar Kartha",
-        "total": 9,
-        "analyzed": 9,
-        "pass": 5,
-        "fail": 4,
-        "passPct": 56,
-        "baseline": true
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-03-07",
-    "baseline": false,
-    "total": 79,
-    "analyzed": 79,
-    "pass": 56,
-    "fail": 23,
-    "passPct": 70.9,
-    "coaches": [
-      {
-        "coach": "Adam Roush",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 3,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Kathryn Macfarlane",
-        "total": 12,
-        "analyzed": 12,
-        "pass": 11,
-        "fail": 1,
-        "passPct": 92,
-        "baseline": false
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 9,
-        "analyzed": 9,
-        "pass": 7,
-        "fail": 2,
-        "passPct": 78,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 12,
-        "analyzed": 12,
-        "pass": 9,
-        "fail": 3,
-        "passPct": 75,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 6,
-        "fail": 2,
-        "passPct": 75,
-        "baseline": false
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 5,
-        "fail": 2,
-        "passPct": 71,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 5,
-        "fail": 3,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Mark Katigbak",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 3,
-        "fail": 2,
-        "passPct": 60,
-        "baseline": false
-      },
-      {
-        "coach": "Vidhi Vashishth",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 3,
-        "fail": 2,
-        "passPct": 60,
-        "baseline": false
-      },
-      {
-        "coach": "Benjamin Piper",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Daniela Guarin",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 0,
-        "fail": 2,
-        "passPct": 0,
-        "baseline": false
-      },
-      {
-        "coach": "Eric Nelson",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": false
-      },
-      {
-        "coach": "Joshua Albar",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": false
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-03-16",
-    "baseline": false,
-    "total": 118,
-    "analyzed": 118,
-    "pass": 85,
-    "fail": 33,
-    "passPct": 72.0,
-    "coaches": [
-      {
-        "coach": "Adam Roush",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Aleksandra Wrega",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 3,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
       {
         "coach": "Bill Brooks",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 4,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "David Babagbale",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Diane Clement",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 5,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Janna Peskett",
         "total": 2,
         "analyzed": 2,
         "pass": 2,
         "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Kathryn Macfarlane",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 3,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Vijaykumar Kartha",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 4,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 13,
-        "analyzed": 13,
-        "pass": 10,
-        "fail": 3,
-        "passPct": 77,
-        "baseline": false
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 11,
-        "analyzed": 11,
-        "pass": 8,
-        "fail": 3,
-        "passPct": 73,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 18,
-        "analyzed": 18,
-        "pass": 13,
-        "fail": 5,
-        "passPct": 72,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 5,
-        "fail": 2,
-        "passPct": 71,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 10,
-        "analyzed": 10,
-        "pass": 7,
-        "fail": 3,
-        "passPct": 70,
-        "baseline": false
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 5,
-        "fail": 3,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Vidhi Vashishth",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 5,
-        "fail": 3,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Benjamin Piper",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Eric Nelson",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Mark Katigbak",
-        "total": 10,
-        "analyzed": 10,
-        "pass": 5,
-        "fail": 5,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Alixandria Ali",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 1,
-        "fail": 3,
-        "passPct": 25,
-        "baseline": false
-      },
-      {
-        "coach": "Joshua Albar",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": false
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-03-23",
-    "baseline": false,
-    "total": 102,
-    "analyzed": 102,
-    "pass": 74,
-    "fail": 28,
-    "passPct": 72.5,
-    "coaches": [
-      {
-        "coach": "Aleksandra Wrega",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Benjamin Piper",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "David Babagbale",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 4,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Fiorella Mendez",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Kathryn Macfarlane",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Diane Clement",
-        "total": 11,
-        "analyzed": 11,
-        "pass": 10,
-        "fail": 1,
-        "passPct": 91,
-        "baseline": false
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 10,
-        "analyzed": 10,
-        "pass": 8,
-        "fail": 2,
-        "passPct": 80,
-        "baseline": false
-      },
-      {
-        "coach": "Vijaykumar Kartha",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 4,
-        "fail": 1,
-        "passPct": 80,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 6,
-        "fail": 2,
-        "passPct": 75,
-        "baseline": false
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 6,
-        "fail": 2,
-        "passPct": 75,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 5,
-        "fail": 2,
-        "passPct": 71,
-        "baseline": false
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 4,
-        "fail": 2,
-        "passPct": 67,
-        "baseline": false
-      },
-      {
-        "coach": "Eric Nelson",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 2,
-        "fail": 1,
-        "passPct": 67,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 5,
-        "fail": 3,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Vidhi Vashishth",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 5,
-        "fail": 3,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Mark Katigbak",
-        "total": 11,
-        "analyzed": 11,
-        "pass": 6,
-        "fail": 5,
-        "passPct": 55,
-        "baseline": false
-      },
-      {
-        "coach": "Alixandria Ali",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 1,
-        "fail": 3,
-        "passPct": 25,
-        "baseline": false
-      },
-      {
-        "coach": "Daniela Guarin",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": false
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-03-30",
-    "baseline": false,
-    "total": 114,
-    "analyzed": 114,
-    "pass": 85,
-    "fail": 29,
-    "passPct": 74.6,
-    "coaches": [
-      {
-        "coach": "Bill Brooks",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 5,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 9,
-        "analyzed": 9,
-        "pass": 8,
-        "fail": 1,
-        "passPct": 89,
-        "baseline": false
-      },
-      {
-        "coach": "Vidhi Vashishth",
-        "total": 12,
-        "analyzed": 12,
-        "pass": 10,
-        "fail": 2,
-        "passPct": 83,
-        "baseline": false
-      },
-      {
-        "coach": "Diane Clement",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 11,
-        "fail": 3,
-        "passPct": 79,
-        "baseline": false
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 17,
-        "analyzed": 17,
-        "pass": 13,
-        "fail": 4,
-        "passPct": 76,
-        "baseline": false
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 11,
-        "analyzed": 11,
-        "pass": 8,
-        "fail": 3,
-        "passPct": 73,
-        "baseline": false
-      },
-      {
-        "coach": "Benjamin Piper",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 11,
-        "fail": 3,
-        "passPct": 79,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 5,
-        "fail": 2,
-        "passPct": 71,
-        "baseline": false
-      },
-      {
-        "coach": "Vijaykumar Kartha",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 2,
-        "fail": 1,
-        "passPct": 67,
-        "baseline": false
-      },
-      {
-        "coach": "Mark Katigbak",
-        "total": 10,
-        "analyzed": 10,
-        "pass": 6,
-        "fail": 4,
-        "passPct": 60,
-        "baseline": false
-      },
-      {
-        "coach": "Adam Roush",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Aleksandra Wrega",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 2,
-        "fail": 3,
-        "passPct": 40,
-        "baseline": false
-      },
-      {
-        "coach": "Kathryn Macfarlane",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": false
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-04-06",
-    "baseline": false,
-    "total": 128,
-    "analyzed": 128,
-    "pass": 103,
-    "fail": 25,
-    "passPct": 80.5,
-    "coaches": [
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 5,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
+        "passPct": 100
       },
       {
         "coach": "Caleb Jabali",
@@ -974,457 +1155,233 @@
         "analyzed": 1,
         "pass": 1,
         "fail": 0,
-        "passPct": 100,
-        "baseline": false
+        "passPct": 100
       },
       {
-        "coach": "Daniela Guarin",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 4,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "David Babagbale",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 5,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 15,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 8,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Vijaykumar Kartha",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Diane Clement",
+        "coach": "Janna Peskett",
         "total": 10,
         "analyzed": 10,
-        "pass": 9,
-        "fail": 1,
-        "passPct": 90,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 11,
-        "analyzed": 11,
-        "pass": 9,
-        "fail": 2,
-        "passPct": 82,
-        "baseline": false
-      },
-      {
-        "coach": "Joshua Albar",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 4,
-        "fail": 1,
-        "passPct": 80,
-        "baseline": false
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 13,
-        "analyzed": 13,
         "pass": 10,
-        "fail": 3,
-        "passPct": 77,
-        "baseline": false
-      },
-      {
-        "coach": "Kesser Karim",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 11,
-        "fail": 4,
-        "passPct": 73,
-        "baseline": false
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 10,
-        "analyzed": 10,
-        "pass": 7,
-        "fail": 3,
-        "passPct": 70,
-        "baseline": false
-      },
-      {
-        "coach": "Mark Katigbak",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 10,
-        "fail": 5,
-        "passPct": 67,
-        "baseline": false
-      },
-      {
-        "coach": "Aleksandra Wrega",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 3,
-        "fail": 4,
-        "passPct": 43,
-        "baseline": false
-      },
-      {
-        "coach": "Alixandria Ali",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 0,
-        "fail": 1,
-        "passPct": 0,
-        "baseline": false
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-04-10",
-    "baseline": false,
-    "total": 115,
-    "analyzed": 115,
-    "pass": 91,
-    "fail": 24,
-    "passPct": 79.1,
-    "coaches": [
-      {
-        "coach": "Bruna Rodrigues",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 6,
         "fail": 0,
-        "passPct": 100,
-        "baseline": false
+        "passPct": 100
       },
       {
-        "coach": "Daniela Guarin",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Diane Clement",
-        "total": 9,
-        "analyzed": 9,
-        "pass": 9,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 6,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Vijaykumar Kartha",
-        "total": 4,
-        "analyzed": 4,
-        "pass": 4,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Maryann Chidume",
-        "total": 10,
-        "analyzed": 10,
-        "pass": 9,
-        "fail": 1,
-        "passPct": 90,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 7,
-        "fail": 1,
-        "passPct": 88,
-        "baseline": false
-      },
-      {
-        "coach": "Kathryn Macfarlane",
+        "coach": "Noel Pilkington",
         "total": 12,
         "analyzed": 12,
-        "pass": 10,
-        "fail": 2,
-        "passPct": 83,
-        "baseline": false
+        "pass": 12,
+        "fail": 0,
+        "passPct": 100
       },
       {
-        "coach": "Joshua Albar",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 4,
-        "fail": 1,
-        "passPct": 80,
-        "baseline": false
-      },
-      {
-        "coach": "Srba Kovacevic",
-        "total": 13,
-        "analyzed": 13,
-        "pass": 10,
-        "fail": 3,
-        "passPct": 77,
-        "baseline": false
-      },
-      {
-        "coach": "Kesser Karim",
-        "total": 11,
-        "analyzed": 11,
-        "pass": 8,
-        "fail": 3,
-        "passPct": 73,
-        "baseline": false
-      },
-      {
-        "coach": "Claudio Ibe",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 5,
-        "fail": 3,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Mark Katigbak",
-        "total": 13,
-        "analyzed": 13,
-        "pass": 8,
-        "fail": 5,
-        "passPct": 62,
-        "baseline": false
-      },
-      {
-        "coach": "Aleksandra Wrega",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 2,
-        "fail": 4,
-        "passPct": 33,
-        "baseline": false
-      }
-    ],
-    "daily": []
-  },
-  {
-    "week": "2026-04-17",
-    "baseline": false,
-    "total": 124,
-    "analyzed": 124,
-    "pass": 112,
-    "fail": 12,
-    "passPct": 90.3,
-    "coaches": [
-      {
-        "coach": "Adam Roush",
+        "coach": "Pritish Chakravarty",
         "total": 1,
         "analyzed": 1,
         "pass": 1,
         "fail": 0,
-        "passPct": 100,
-        "baseline": false
+        "passPct": 100
       },
       {
-        "coach": "Bruna Rodrigues",
-        "total": 5,
-        "analyzed": 5,
-        "pass": 5,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Daniela Guarin",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Davi Deconti",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Diane Clement",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 7,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Fiorella Mendez",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 2,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Himanshi Goyal",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 6,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Joshua Albar",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 7,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Kathryn Macfarlane",
-        "total": 6,
-        "analyzed": 6,
-        "pass": 6,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Soaham Sharma",
-        "total": 8,
-        "analyzed": 8,
-        "pass": 8,
-        "fail": 0,
-        "passPct": 100,
-        "baseline": false
-      },
-      {
-        "coach": "Vijaykumar Kartha",
+        "coach": "Ruchi Baid",
         "total": 3,
         "analyzed": 3,
         "pass": 3,
         "fail": 0,
-        "passPct": 100,
-        "baseline": false
+        "passPct": 100
       },
       {
-        "coach": "Mark Katigbak",
+        "coach": "Fiorella Mendez",
+        "total": 16,
+        "analyzed": 16,
+        "pass": 15,
+        "fail": 1,
+        "passPct": 94
+      },
+      {
+        "coach": "Himanshi Goyal",
+        "total": 70,
+        "analyzed": 70,
+        "pass": 65,
+        "fail": 3,
+        "passPct": 93
+      },
+      {
+        "coach": "Bruna Rodrigues",
+        "total": 39,
+        "analyzed": 39,
+        "pass": 36,
+        "fail": 3,
+        "passPct": 92
+      },
+      {
+        "coach": "Diane Clement",
+        "total": 56,
+        "analyzed": 56,
+        "pass": 51,
+        "fail": 5,
+        "passPct": 91
+      },
+      {
+        "coach": "Kathryn Macfarlane",
+        "total": 50,
+        "analyzed": 50,
+        "pass": 44,
+        "fail": 6,
+        "passPct": 88
+      },
+      {
+        "coach": "Joshua Albar",
+        "total": 35,
+        "analyzed": 35,
+        "pass": 30,
+        "fail": 5,
+        "passPct": 86
+      },
+      {
+        "coach": "Sebastian Sarmiento",
         "total": 14,
         "analyzed": 14,
+        "pass": 12,
+        "fail": 2,
+        "passPct": 86
+      },
+      {
+        "coach": "Daniela Guarin",
+        "total": 24,
+        "analyzed": 24,
+        "pass": 20,
+        "fail": 4,
+        "passPct": 83
+      },
+      {
+        "coach": "David Babagbale",
+        "total": 16,
+        "analyzed": 16,
         "pass": 13,
-        "fail": 1,
-        "passPct": 93,
-        "baseline": false
+        "fail": 3,
+        "passPct": 81
       },
       {
         "coach": "Maryann Chidume",
-        "total": 12,
-        "analyzed": 12,
-        "pass": 11,
-        "fail": 1,
-        "passPct": 92,
-        "baseline": false
+        "total": 95,
+        "analyzed": 95,
+        "pass": 76,
+        "fail": 19,
+        "passPct": 80
       },
       {
-        "coach": "Benjamin Piper",
-        "total": 12,
-        "analyzed": 12,
-        "pass": 10,
-        "fail": 2,
-        "passPct": 83,
-        "baseline": false
+        "coach": "Soaham Sharma",
+        "total": 80,
+        "analyzed": 80,
+        "pass": 62,
+        "fail": 18,
+        "passPct": 78
+      },
+      {
+        "coach": "Vijaykumar Kartha",
+        "total": 30,
+        "analyzed": 30,
+        "pass": 23,
+        "fail": 7,
+        "passPct": 77
       },
       {
         "coach": "Kesser Karim",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 12,
-        "fail": 3,
-        "passPct": 80,
-        "baseline": false
+        "total": 41,
+        "analyzed": 41,
+        "pass": 31,
+        "fail": 10,
+        "passPct": 76
       },
       {
         "coach": "Srba Kovacevic",
-        "total": 14,
-        "analyzed": 14,
-        "pass": 11,
-        "fail": 3,
-        "passPct": 79,
-        "baseline": false
+        "total": 93,
+        "analyzed": 93,
+        "pass": 66,
+        "fail": 27,
+        "passPct": 71
+      },
+      {
+        "coach": "Adam Roush",
+        "total": 25,
+        "analyzed": 25,
+        "pass": 17,
+        "fail": 8,
+        "passPct": 68
+      },
+      {
+        "coach": "Benjamin Piper",
+        "total": 46,
+        "analyzed": 46,
+        "pass": 31,
+        "fail": 15,
+        "passPct": 67
       },
       {
         "coach": "Claudio Ibe",
-        "total": 9,
-        "analyzed": 9,
-        "pass": 7,
-        "fail": 2,
-        "passPct": 78,
-        "baseline": false
+        "total": 63,
+        "analyzed": 63,
+        "pass": 42,
+        "fail": 21,
+        "passPct": 67
+      },
+      {
+        "coach": "Aleksandra Wrega",
+        "total": 29,
+        "analyzed": 29,
+        "pass": 19,
+        "fail": 10,
+        "passPct": 66
+      },
+      {
+        "coach": "Vidhi Vashishth",
+        "total": 49,
+        "analyzed": 49,
+        "pass": 32,
+        "fail": 17,
+        "passPct": 65
+      },
+      {
+        "coach": "Mark Katigbak",
+        "total": 78,
+        "analyzed": 78,
+        "pass": 50,
+        "fail": 27,
+        "passPct": 64
+      },
+      {
+        "coach": "Tripti Khetan",
+        "total": 8,
+        "analyzed": 8,
+        "pass": 5,
+        "fail": 3,
+        "passPct": 62
+      },
+      {
+        "coach": "Davi Deconti",
+        "total": 80,
+        "analyzed": 80,
+        "pass": 48,
+        "fail": 32,
+        "passPct": 60
+      },
+      {
+        "coach": "Barbara Franks",
+        "total": 2,
+        "analyzed": 2,
+        "pass": 1,
+        "fail": 1,
+        "passPct": 50
+      },
+      {
+        "coach": "Alixandria Ali",
+        "total": 19,
+        "analyzed": 19,
+        "pass": 2,
+        "fail": 17,
+        "passPct": 11
       }
     ],
-    "daily": []
+    "as_of": "2026-04-17"
   }
-]
+}
