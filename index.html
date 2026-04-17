@@ -182,7 +182,7 @@ function init() {
   });
 
   // Populate coach dropdown
-  const latest = HISTORY_DATA[HISTORY_DATA.length - 1];
+  const latest = (HISTORY_DATA.weeks||HISTORY_DATA)[(HISTORY_DATA.weeks||HISTORY_DATA).length - 1];
   const detailSel = document.getElementById('coach-detail-select');
   detailSel.innerHTML = '<option value="">-- Select coach --</option>';
   const allCoachNames = [...new Set(weeks_data.flatMap(h => h.coaches.map(c => c.coach)))].sort();
@@ -286,7 +286,7 @@ function renderOverview() {
   document.getElementById('overview-content').style.display = 'block';
 
   // Find previous week for trend arrows
-  const allWeeks = HISTORY_DATA;
+  const allWeeks = (HISTORY_DATA.weeks||HISTORY_DATA);
   const weekIdx = allWeeks.findIndex(h => h.week === week.week);
   const prev = (!week.isTotalView && weekIdx > 0) ? allWeeks[weekIdx - 1] : null;
   function trend(curr, prevVal) {
