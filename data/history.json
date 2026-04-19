@@ -4,10 +4,10 @@
       "week": "2026-02-28",
       "baseline": true,
       "total": 339,
-      "analyzed": 339,
-      "pass": 219,
+      "analyzed": 336,
+      "pass": 216,
       "fail": 120,
-      "passPct": 64.6,
+      "passPct": 64.3,
       "coaches": [
         {
           "coach": "Adam Roush",
@@ -185,15 +185,6 @@
           "total": 1,
           "analyzed": 1,
           "pass": 1,
-          "fail": 0,
-          "passPct": 100,
-          "baseline": true
-        },
-        {
-          "coach": "Ruchi Baid",
-          "total": 3,
-          "analyzed": 3,
-          "pass": 3,
           "fail": 0,
           "passPct": 100,
           "baseline": true
@@ -1301,10 +1292,10 @@
     }
   ],
   "cumulative": {
-    "analyzed": 1152,
-    "pass": 879,
-    "fail": 270,
-    "passPct": 76.3,
+    "analyzed": 1149,
+    "pass": 876,
+    "fail": 273,
+    "passPct": 76.2,
     "coaches": [
       {
         "coach": "Bill Brooks",
@@ -1347,14 +1338,6 @@
         "passPct": 100
       },
       {
-        "coach": "Ruchi Baid",
-        "total": 3,
-        "analyzed": 3,
-        "pass": 3,
-        "fail": 0,
-        "passPct": 100
-      },
-      {
         "coach": "Fiorella Mendez",
         "total": 17,
         "analyzed": 17,
@@ -1375,7 +1358,7 @@
         "total": 75,
         "analyzed": 75,
         "pass": 69,
-        "fail": 3,
+        "fail": 6,
         "passPct": 92
       },
       {
