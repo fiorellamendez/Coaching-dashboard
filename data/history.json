@@ -5,26 +5,26 @@
       "baseline": true,
       "total": 339,
       "analyzed": 336,
-      "pass": 217,
-      "fail": 119,
-      "passPct": 64.6,
+      "pass": 249,
+      "fail": 87,
+      "passPct": 74.1,
       "coaches": [
         {
           "coach": "Adam Roush",
           "total": 18,
           "analyzed": 18,
-          "pass": 11,
-          "fail": 7,
-          "passPct": 61,
+          "pass": 12,
+          "fail": 6,
+          "passPct": 67,
           "baseline": true
         },
         {
           "coach": "Aleksandra Wrega",
           "total": 18,
           "analyzed": 18,
-          "pass": 10,
-          "fail": 8,
-          "passPct": 56,
+          "pass": 17,
+          "fail": 1,
+          "passPct": 94,
           "baseline": true
         },
         {
@@ -49,9 +49,9 @@
           "coach": "Benjamin Piper",
           "total": 15,
           "analyzed": 15,
-          "pass": 8,
-          "fail": 7,
-          "passPct": 53,
+          "pass": 10,
+          "fail": 5,
+          "passPct": 67,
           "baseline": true
         },
         {
@@ -94,18 +94,18 @@
           "coach": "Davi Deconti",
           "total": 21,
           "analyzed": 21,
-          "pass": 9,
-          "fail": 12,
-          "passPct": 43,
+          "pass": 13,
+          "fail": 8,
+          "passPct": 62,
           "baseline": true
         },
         {
           "coach": "David Babagbale",
           "total": 6,
           "analyzed": 6,
-          "pass": 3,
-          "fail": 3,
-          "passPct": 50,
+          "pass": 4,
+          "fail": 2,
+          "passPct": 67,
           "baseline": true
         },
         {
@@ -130,36 +130,36 @@
           "coach": "Himanshi Goyal",
           "total": 16,
           "analyzed": 16,
-          "pass": 8,
-          "fail": 8,
-          "passPct": 50,
+          "pass": 16,
+          "fail": 0,
+          "passPct": 100,
           "baseline": true
         },
         {
           "coach": "Janna Peskett",
           "total": 7,
           "analyzed": 7,
-          "pass": 2,
-          "fail": 5,
-          "passPct": 29,
+          "pass": 7,
+          "fail": 0,
+          "passPct": 100,
           "baseline": true
         },
         {
           "coach": "Joshua Albar",
           "total": 16,
           "analyzed": 16,
-          "pass": 15,
-          "fail": 1,
-          "passPct": 94,
+          "pass": 14,
+          "fail": 2,
+          "passPct": 88,
           "baseline": true
         },
         {
           "coach": "Kathryn Macfarlane",
           "total": 14,
           "analyzed": 14,
-          "pass": 12,
-          "fail": 2,
-          "passPct": 86,
+          "pass": 13,
+          "fail": 1,
+          "passPct": 93,
           "baseline": true
         },
         {
@@ -193,27 +193,27 @@
           "coach": "Sebastian Sarmiento",
           "total": 14,
           "analyzed": 14,
-          "pass": 9,
-          "fail": 5,
-          "passPct": 64,
+          "pass": 12,
+          "fail": 2,
+          "passPct": 86,
           "baseline": true
         },
         {
           "coach": "Soaham Sharma",
           "total": 17,
           "analyzed": 17,
-          "pass": 12,
-          "fail": 5,
-          "passPct": 71,
+          "pass": 13,
+          "fail": 4,
+          "passPct": 76,
           "baseline": true
         },
         {
           "coach": "Srba Kovacevic",
           "total": 16,
           "analyzed": 16,
-          "pass": 9,
-          "fail": 7,
-          "passPct": 56,
+          "pass": 10,
+          "fail": 6,
+          "passPct": 62,
           "baseline": true
         },
         {
@@ -229,9 +229,9 @@
           "coach": "Tripti Khetan",
           "total": 8,
           "analyzed": 8,
-          "pass": 6,
-          "fail": 2,
-          "passPct": 75,
+          "pass": 5,
+          "fail": 3,
+          "passPct": 62,
           "baseline": true
         },
         {
@@ -1545,24 +1545,269 @@
         }
       ],
       "daily": []
+    },
+    {
+      "week": "2026-05-11",
+      "baseline": false,
+      "total": 183,
+      "analyzed": 183,
+      "pass": 172,
+      "fail": 11,
+      "passPct": 94.0,
+      "coaches": [
+        {
+          "coach": "Soaham Sharma",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 12,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Anastasiia Klechenko",
+          "total": 10,
+          "analyzed": 10,
+          "pass": 10,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 10,
+          "analyzed": 10,
+          "pass": 10,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Bruna Rodrigues",
+          "total": 7,
+          "analyzed": 7,
+          "pass": 7,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Diane Clement",
+          "total": 6,
+          "analyzed": 6,
+          "pass": 6,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "David Babagbale",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Julian Hernandez",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Bill Brooks",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Fiorella Mendez",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Hariprasad Soragaon",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Janna Peskett",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Barbara Franks",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kathryn Macfarlane",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Caleb Jabali",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Noel Pilkington",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kesser Karim",
+          "total": 20,
+          "analyzed": 20,
+          "pass": 19,
+          "fail": 1,
+          "passPct": 95,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 13,
+          "analyzed": 13,
+          "pass": 12,
+          "fail": 1,
+          "passPct": 92,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 12,
+          "analyzed": 12,
+          "pass": 11,
+          "fail": 1,
+          "passPct": 92,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 23,
+          "analyzed": 23,
+          "pass": 21,
+          "fail": 2,
+          "passPct": 91,
+          "baseline": false
+        },
+        {
+          "coach": "Vijaykumar Kartha",
+          "total": 10,
+          "analyzed": 10,
+          "pass": 9,
+          "fail": 1,
+          "passPct": 90,
+          "baseline": false
+        },
+        {
+          "coach": "Aleksandra Wrega",
+          "total": 9,
+          "analyzed": 9,
+          "pass": 8,
+          "fail": 1,
+          "passPct": 89,
+          "baseline": false
+        },
+        {
+          "coach": "Claudio Ibe",
+          "total": 8,
+          "analyzed": 8,
+          "pass": 7,
+          "fail": 1,
+          "passPct": 88,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 8,
+          "analyzed": 8,
+          "pass": 7,
+          "fail": 1,
+          "passPct": 88,
+          "baseline": false
+        },
+        {
+          "coach": "Joshua Albar",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 3,
+          "fail": 1,
+          "passPct": 75,
+          "baseline": false
+        },
+        {
+          "coach": "Christopher Voigt",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 2,
+          "fail": 1,
+          "passPct": 67,
+          "baseline": false
+        }
+      ],
+      "daily": []
     }
   ],
   "cumulative": {
-    "analyzed": 1340,
-    "pass": 1056,
-    "fail": 284,
-    "passPct": 78.8,
+    "analyzed": 1578,
+    "pass": 1283,
+    "fail": 295,
+    "passPct": 81.3,
     "coaches": [
       {
         "coach": "Noel Pilkington",
-        "total": 18,
-        "analyzed": 18,
-        "pass": 18,
+        "total": 19,
+        "analyzed": 19,
+        "pass": 19,
         "fail": 0,
         "passPct": 100
       },
       {
         "coach": "Janna Peskett",
+        "total": 15,
+        "analyzed": 15,
+        "pass": 15,
+        "fail": 0,
+        "passPct": 100
+      },
+      {
+        "coach": "Bill Brooks",
         "total": 11,
         "analyzed": 11,
         "pass": 11,
@@ -1570,18 +1815,10 @@
         "passPct": 100
       },
       {
-        "coach": "Bill Brooks",
-        "total": 7,
-        "analyzed": 7,
-        "pass": 7,
-        "fail": 0,
-        "passPct": 100
-      },
-      {
         "coach": "Hariprasad Soragaon",
-        "total": 1,
-        "analyzed": 1,
-        "pass": 1,
+        "total": 4,
+        "analyzed": 4,
+        "pass": 4,
         "fail": 0,
         "passPct": 100
       },
@@ -1595,75 +1832,91 @@
       },
       {
         "coach": "Julian Hernandez",
-        "total": 25,
-        "analyzed": 25,
-        "pass": 24,
+        "total": 31,
+        "analyzed": 31,
+        "pass": 30,
+        "fail": 1,
+        "passPct": 97
+      },
+      {
+        "coach": "Fiorella Mendez",
+        "total": 23,
+        "analyzed": 23,
+        "pass": 22,
         "fail": 1,
         "passPct": 96
       },
       {
-        "coach": "Fiorella Mendez",
-        "total": 19,
-        "analyzed": 19,
-        "pass": 18,
-        "fail": 1,
+        "coach": "Bruna Rodrigues",
+        "total": 63,
+        "analyzed": 63,
+        "pass": 60,
+        "fail": 3,
         "passPct": 95
       },
       {
-        "coach": "Bruna Rodrigues",
-        "total": 50,
-        "analyzed": 50,
-        "pass": 47,
+        "coach": "Anastasiia Klechenko",
+        "total": 48,
+        "analyzed": 48,
+        "pass": 45,
         "fail": 3,
         "passPct": 94
       },
       {
-        "coach": "Himanshi Goyal",
-        "total": 82,
-        "analyzed": 82,
-        "pass": 76,
-        "fail": 6,
-        "passPct": 93
-      },
-      {
         "coach": "Caleb Jabali",
-        "total": 15,
-        "analyzed": 15,
-        "pass": 14,
+        "total": 16,
+        "analyzed": 16,
+        "pass": 15,
         "fail": 1,
-        "passPct": 93
+        "passPct": 94
       },
       {
         "coach": "Diane Clement",
-        "total": 65,
-        "analyzed": 65,
-        "pass": 60,
+        "total": 72,
+        "analyzed": 72,
+        "pass": 67,
         "fail": 5,
+        "passPct": 93
+      },
+      {
+        "coach": "Himanshi Goyal",
+        "total": 92,
+        "analyzed": 92,
+        "pass": 85,
+        "fail": 7,
         "passPct": 92
       },
       {
-        "coach": "Anastasiia Klechenko",
-        "total": 33,
-        "analyzed": 33,
-        "pass": 30,
-        "fail": 3,
-        "passPct": 91
-      },
-      {
         "coach": "Kathryn Macfarlane",
-        "total": 54,
-        "analyzed": 54,
-        "pass": 48,
+        "total": 56,
+        "analyzed": 56,
+        "pass": 50,
         "fail": 6,
         "passPct": 89
       },
       {
         "coach": "Joshua Albar",
-        "total": 43,
-        "analyzed": 43,
-        "pass": 38,
+        "total": 47,
+        "analyzed": 47,
+        "pass": 41,
+        "fail": 6,
+        "passPct": 87
+      },
+      {
+        "coach": "Daniela Guarin",
+        "total": 39,
+        "analyzed": 39,
+        "pass": 34,
         "fail": 5,
-        "passPct": 88
+        "passPct": 87
+      },
+      {
+        "coach": "David Babagbale",
+        "total": 22,
+        "analyzed": 22,
+        "pass": 19,
+        "fail": 3,
+        "passPct": 86
       },
       {
         "coach": "Sebastian Sarmiento",
@@ -1675,27 +1928,35 @@
       },
       {
         "coach": "Maryann Chidume",
-        "total": 120,
-        "analyzed": 120,
-        "pass": 100,
-        "fail": 20,
-        "passPct": 83
+        "total": 139,
+        "analyzed": 139,
+        "pass": 118,
+        "fail": 21,
+        "passPct": 85
       },
       {
         "coach": "Aleksandra Wrega",
-        "total": 30,
-        "analyzed": 30,
-        "pass": 25,
-        "fail": 5,
-        "passPct": 83
+        "total": 41,
+        "analyzed": 41,
+        "pass": 35,
+        "fail": 6,
+        "passPct": 85
       },
       {
-        "coach": "Daniela Guarin",
-        "total": 29,
-        "analyzed": 29,
-        "pass": 24,
-        "fail": 5,
-        "passPct": 83
+        "coach": "Kesser Karim",
+        "total": 70,
+        "analyzed": 70,
+        "pass": 59,
+        "fail": 11,
+        "passPct": 84
+      },
+      {
+        "coach": "Vijaykumar Kartha",
+        "total": 50,
+        "analyzed": 50,
+        "pass": 42,
+        "fail": 8,
+        "passPct": 84
       },
       {
         "coach": "Eric Nelson",
@@ -1706,44 +1967,44 @@
         "passPct": 83
       },
       {
-        "coach": "Vijaykumar Kartha",
-        "total": 38,
-        "analyzed": 38,
-        "pass": 31,
-        "fail": 7,
-        "passPct": 82
-      },
-      {
-        "coach": "David Babagbale",
-        "total": 17,
-        "analyzed": 17,
-        "pass": 14,
-        "fail": 3,
-        "passPct": 82
-      },
-      {
         "coach": "Soaham Sharma",
-        "total": 84,
-        "analyzed": 84,
-        "pass": 66,
+        "total": 101,
+        "analyzed": 101,
+        "pass": 83,
         "fail": 18,
-        "passPct": 79
-      },
-      {
-        "coach": "Kesser Karim",
-        "total": 44,
-        "analyzed": 44,
-        "pass": 34,
-        "fail": 10,
-        "passPct": 77
+        "passPct": 82
       },
       {
         "coach": "Srba Kovacevic",
-        "total": 111,
-        "analyzed": 111,
-        "pass": 80,
-        "fail": 31,
-        "passPct": 72
+        "total": 130,
+        "analyzed": 130,
+        "pass": 98,
+        "fail": 32,
+        "passPct": 75
+      },
+      {
+        "coach": "Barbara Franks",
+        "total": 4,
+        "analyzed": 4,
+        "pass": 3,
+        "fail": 1,
+        "passPct": 75
+      },
+      {
+        "coach": "Christopher Voigt",
+        "total": 4,
+        "analyzed": 4,
+        "pass": 3,
+        "fail": 1,
+        "passPct": 75
+      },
+      {
+        "coach": "Claudio Ibe",
+        "total": 86,
+        "analyzed": 86,
+        "pass": 63,
+        "fail": 23,
+        "passPct": 73
       },
       {
         "coach": "Benjamin Piper",
@@ -1762,12 +2023,12 @@
         "passPct": 72
       },
       {
-        "coach": "Claudio Ibe",
-        "total": 75,
-        "analyzed": 75,
-        "pass": 53,
-        "fail": 22,
-        "passPct": 71
+        "coach": "Mark Katigbak",
+        "total": 115,
+        "analyzed": 115,
+        "pass": 81,
+        "fail": 34,
+        "passPct": 70
       },
       {
         "coach": "Vidhi Vashishth",
@@ -1786,28 +2047,12 @@
         "passPct": 64
       },
       {
-        "coach": "Mark Katigbak",
-        "total": 87,
-        "analyzed": 87,
-        "pass": 55,
-        "fail": 32,
-        "passPct": 63
-      },
-      {
         "coach": "Tripti Khetan",
         "total": 8,
         "analyzed": 8,
         "pass": 5,
         "fail": 3,
         "passPct": 62
-      },
-      {
-        "coach": "Barbara Franks",
-        "total": 2,
-        "analyzed": 2,
-        "pass": 1,
-        "fail": 1,
-        "passPct": 50
       },
       {
         "coach": "Alixandria Ali",
@@ -1818,6 +2063,6 @@
         "passPct": 11
       }
     ],
-    "as_of": "2026-05-04"
+    "as_of": "2026-05-11"
   }
 }
