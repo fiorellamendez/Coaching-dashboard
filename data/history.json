@@ -2550,27 +2550,205 @@
         }
       ],
       "daily": []
+    },
+    {
+      "week": "2026-06-15",
+      "baseline": false,
+      "total": 24,
+      "analyzed": 24,
+      "pass": 24,
+      "fail": 0,
+      "passPct": 100.0,
+      "coaches": [
+        {
+          "coach": "Philopateer Fouad",
+          "total": 5,
+          "analyzed": 5,
+          "pass": 5,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Srba Kovacevic",
+          "total": 4,
+          "analyzed": 4,
+          "pass": 4,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Maryann Chidume",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Christopher Voigt",
+          "total": 3,
+          "analyzed": 3,
+          "pass": 3,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Priya Krishnan",
+          "total": 2,
+          "analyzed": 2,
+          "pass": 2,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Mark Katigbak",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kesser Karim",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Anastasiia Klechenko",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Daniela Guarin",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Bill Brooks",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        }
+      ],
+      "daily": []
+    },
+    {
+      "week": "2026-06-22",
+      "baseline": false,
+      "total": 7,
+      "analyzed": 7,
+      "pass": 6,
+      "fail": 1,
+      "passPct": 85.7,
+      "coaches": [
+        {
+          "coach": "Maryann Chidume",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Himanshi Goyal",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Kesser Karim",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Diane Clement",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Benjamin Piper",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Priya Krishnan",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 1,
+          "fail": 0,
+          "passPct": 100,
+          "baseline": false
+        },
+        {
+          "coach": "Noel Pilkington",
+          "total": 1,
+          "analyzed": 1,
+          "pass": 0,
+          "fail": 1,
+          "passPct": 0,
+          "baseline": false
+        }
+      ],
+      "daily": []
     }
   ],
   "cumulative": {
-    "analyzed": 1911,
-    "pass": 1612,
-    "fail": 299,
-    "passPct": 84.4,
+    "analyzed": 1942,
+    "pass": 1642,
+    "fail": 300,
+    "passPct": 84.6,
     "coaches": [
       {
         "coach": "Bill Brooks",
-        "total": 21,
-        "analyzed": 21,
-        "pass": 21,
-        "fail": 0,
-        "passPct": 100
-      },
-      {
-        "coach": "Noel Pilkington",
-        "total": 20,
-        "analyzed": 20,
-        "pass": 20,
+        "total": 22,
+        "analyzed": 22,
+        "pass": 22,
         "fail": 0,
         "passPct": 100
       },
@@ -2616,9 +2794,9 @@
       },
       {
         "coach": "Himanshi Goyal",
-        "total": 104,
-        "analyzed": 104,
-        "pass": 100,
+        "total": 107,
+        "analyzed": 107,
+        "pass": 103,
         "fail": 4,
         "passPct": 96
       },
@@ -2632,14 +2810,30 @@
       },
       {
         "coach": "Anastasiia Klechenko",
-        "total": 53,
-        "analyzed": 53,
-        "pass": 51,
+        "total": 54,
+        "analyzed": 54,
+        "pass": 52,
         "fail": 2,
         "passPct": 96
       },
       {
         "coach": "Christopher Voigt",
+        "total": 27,
+        "analyzed": 27,
+        "pass": 26,
+        "fail": 1,
+        "passPct": 96
+      },
+      {
+        "coach": "Philopateer Fouad",
+        "total": 26,
+        "analyzed": 26,
+        "pass": 25,
+        "fail": 1,
+        "passPct": 96
+      },
+      {
+        "coach": "Priya Krishnan",
         "total": 24,
         "analyzed": 24,
         "pass": 23,
@@ -2647,15 +2841,7 @@
         "passPct": 96
       },
       {
-        "coach": "Philopateer Fouad",
-        "total": 21,
-        "analyzed": 21,
-        "pass": 20,
-        "fail": 1,
-        "passPct": 95
-      },
-      {
-        "coach": "Priya Krishnan",
+        "coach": "Noel Pilkington",
         "total": 21,
         "analyzed": 21,
         "pass": 20,
@@ -2664,9 +2850,9 @@
       },
       {
         "coach": "Diane Clement",
-        "total": 89,
-        "analyzed": 89,
-        "pass": 84,
+        "total": 90,
+        "analyzed": 90,
+        "pass": 85,
         "fail": 5,
         "passPct": 94
       },
@@ -2704,25 +2890,25 @@
       },
       {
         "coach": "Daniela Guarin",
-        "total": 46,
-        "analyzed": 46,
-        "pass": 41,
+        "total": 47,
+        "analyzed": 47,
+        "pass": 42,
         "fail": 5,
         "passPct": 89
       },
       {
         "coach": "Maryann Chidume",
-        "total": 161,
-        "analyzed": 161,
-        "pass": 140,
+        "total": 165,
+        "analyzed": 165,
+        "pass": 144,
         "fail": 21,
         "passPct": 87
       },
       {
         "coach": "Kesser Karim",
-        "total": 90,
-        "analyzed": 90,
-        "pass": 78,
+        "total": 92,
+        "analyzed": 92,
+        "pass": 80,
         "fail": 12,
         "passPct": 87
       },
@@ -2784,9 +2970,9 @@
       },
       {
         "coach": "Srba Kovacevic",
-        "total": 150,
-        "analyzed": 150,
-        "pass": 118,
+        "total": 154,
+        "analyzed": 154,
+        "pass": 122,
         "fail": 32,
         "passPct": 79
       },
@@ -2807,20 +2993,20 @@
         "passPct": 75
       },
       {
-        "coach": "Benjamin Piper",
-        "total": 61,
-        "analyzed": 61,
-        "pass": 45,
-        "fail": 16,
+        "coach": "Mark Katigbak",
+        "total": 129,
+        "analyzed": 129,
+        "pass": 95,
+        "fail": 34,
         "passPct": 74
       },
       {
-        "coach": "Mark Katigbak",
-        "total": 128,
-        "analyzed": 128,
-        "pass": 94,
-        "fail": 34,
-        "passPct": 73
+        "coach": "Benjamin Piper",
+        "total": 62,
+        "analyzed": 62,
+        "pass": 46,
+        "fail": 16,
+        "passPct": 74
       },
       {
         "coach": "Adam Roush",
@@ -2863,6 +3049,6 @@
         "passPct": 11
       }
     ],
-    "as_of": "2026-06-08"
+    "as_of": "2026-06-22"
   }
 }
